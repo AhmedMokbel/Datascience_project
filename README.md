@@ -1,9 +1,7 @@
 # IT educational clustering
 
 
-Problem statement
-==============================
-=======
+
 
 ## Problem statement
 
