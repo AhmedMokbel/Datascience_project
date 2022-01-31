@@ -12,3 +12,4 @@ Our (fictional) client is an IT educational institute. They have reached out to 
 The Public 2020 Stack Overflow Developer Survey Results 
 
 ## Exploration Data Analysis "EDA" 
+![alt text] (https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Skills%20Frequency%20.png)
