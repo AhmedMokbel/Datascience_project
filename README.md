@@ -17,3 +17,10 @@ The Public 2020 Stack Overflow Developer Survey Results
 
  ### Skills Related to Roles
 ![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Skills%20Frequency%20After%20Normalizing.png)
+
+## Faeture Engineering
+ ### PCA For Our Skills
+ ![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Dimensionality%20reduction-pca%20for%20skills.png)
+
+ ### Clustering Skills
+ ![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Clustering%20SKills.png)
