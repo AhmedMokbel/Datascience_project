@@ -13,4 +13,7 @@ The Public 2020 Stack Overflow Developer Survey Results
 
 ## Exploration Data Analysis "EDA" 
  ### our Skills Frequency
-![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Skills%20Frequency%20.png)
+![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Skills%20Frequency%20.png) 
+
+ ### Skills Related to Roles
+![alt text](https://github.com/AhmedMokbel/Datascience_project/blob/master/reports/figures/Skills%20Frequency%20After%20Normalizing.png)
